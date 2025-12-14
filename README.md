@@ -2,7 +2,7 @@
 
 HMI-style drilling dashboard demo. Uses sample Norwegian well metadata (Johan Sverdrup, Snorre, Kristin, Alve, Balder) and completely simulated live drilling metrics. Built with GraphQL, WebSockets, React, and TypeScript to demonstrate real-time streaming architecture.
 
-![Dashboard Overview](./simulated_outputs/dashboard-overview.png)
+![Dashboard Overview](./simulated_outputs/overview.png)
 
 ## Overview
 
@@ -398,29 +398,6 @@ The application is containerized and ready for deployment to:
 
 Docker Compose configuration is production-ready with proper networking between services.
 
-## Future Enhancements
-
-- [ ] Add authentication (JWT tokens)
-- [ ] Persist metrics to PostgreSQL/TimescaleDB
-- [ ] Add historical data playback
-- [ ] Multi-user support with role-based access
-- [ ] Export metrics to CSV/Excel
-- [ ] Add more chart types (bar, gauge, heatmap)
-- [ ] Implement alarming with notifications
-- [ ] Add drill string visualization
-- [ ] Mobile-responsive layout
-- [ ] Integrate with real OPC UA / Modbus datasources
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is open source and available under the MIT License.
@@ -429,13 +406,6 @@ This project is open source and available under the MIT License.
 
 **Abdul Qadeer**
 - GitHub: [@A-Qadeer542](https://github.com/A-Qadeer542)
-
-## Acknowledgments
-
-- Norwegian Petroleum Directorate (NPD) for well data reference
-- Equinor, Aker BP, and Vår Energi for operator information
-- Apollo GraphQL team for excellent documentation
-- React and TypeScript communities
 
 ---
 

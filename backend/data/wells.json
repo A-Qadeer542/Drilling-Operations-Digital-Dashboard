@@ -1,0 +1,54 @@
+[
+  {
+    "id": "16/2-6 S",
+    "name": "Johan Sverdrup",
+    "depth": 2027,
+    "operator": "Equinor Energy AS",
+    "field": "JOHAN SVERDRUP",
+    "latitude": 58.6238,
+    "longitude": 2.8624,
+    "status": "Production"
+  },
+  {
+    "id": "34/7-36 S",
+    "name": "Snorre",
+    "depth": 2507,
+    "operator": "Equinor Energy AS",
+    "field": "SNORRE",
+    "latitude": 61.4452,
+    "longitude": 2.1421,
+    "status": "Production"
+  },
+  {
+    "id": "6406/2-8",
+    "name": "Kristin",
+    "depth": 4856,
+    "operator": "Equinor Energy AS",
+    "field": "KRISTIN",
+    "latitude": 64.8587,
+    "longitude": 7.7435,
+    "status": "Production"
+  },
+  {
+    "id": "6507/11-8",
+    "name": "Alve",
+    "depth": 4702,
+    "operator": "Aker BP ASA",
+    "field": "ALVE",
+    "latitude": 65.0229,
+    "longitude": 7.0851,
+    "status": "Production"
+  },
+  {
+    "id": "25/8-19 S",
+    "name": "Balder",
+    "depth": 2250,
+    "operator": "Vår Energi ASA",
+    "field": "BALDER",
+    "latitude": 59.3641,
+    "longitude": 2.5834,
+    "status": "Production"
+  }
+]
+
+
